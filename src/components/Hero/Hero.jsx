@@ -29,7 +29,7 @@ export default function Hero() {
       {/* Content */}
       <div className="hero-content">
         <div className="hero-text-wrapper">
-          <p className="hero-tag">Luxury Wedding Photography</p>
+       
 
           <h1 className="hero-title">
             Capturing Moments <br />
